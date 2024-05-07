@@ -8,3 +8,6 @@ body {
   text-decoration: none;
   color: white;
 }
+.myosai:hover {
+  background: #13c3ac;
+}
